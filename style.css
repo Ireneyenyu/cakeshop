@@ -1,0 +1,365 @@
+body {
+  font-family: "Noto Sans TC", sans-serif;
+  font-family: "Noto Serif TC", serif;
+  background-color: rgb(255, 255, 255);
+  margin: 0px;
+}
+
+.nav {
+  background-color: #5c4936;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+}
+
+.nav ul {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.hamburger {
+  width: 40px;
+  padding-left: 42px;
+  position: absolute;
+  top: 60px;
+  left: 20px;
+}
+
+.customer {
+  width: 40px;
+  padding-left: 354px;
+  position: absolute;
+  top: 60px;
+  right: 80px;
+}
+
+.logo {
+  width: 214px;
+}
+
+.banner img {
+  width: 100vw;
+  padding-top: 155px;
+  margin: 0px;
+  border: 0px;
+}
+.cake1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cake1 ul {
+  padding: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cake1 ul li {
+  display: inline-block;
+  text-align: center;
+}
+
+.cake2 ul {
+  display: inline-block;
+  text-align: center;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+}
+.cake2 ul li {
+  display: inline-block;
+  text-align: center;
+}
+
+.cake3 ul {
+  display: inline-block;
+  text-align: center;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+}
+.cake3 ul li {
+  display: inline-block;
+  text-align: center;
+}
+
+.cake4 ul {
+  display: inline-block;
+  text-align: center;
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+  margin-bottom: 100px;
+}
+.cake4 ul li {
+  display: inline-block;
+  text-align: center;
+}
+
+.cake-intro-1 img {
+  height: 51px;
+}
+
+.cake-intro-title-1 p {
+  color: #5c4936;
+  font-size: 20pt;
+  margin-top: 0;
+}
+
+.cake-intro-title-2 p {
+  color: #5c4936;
+  font-size: 15pt;
+  margin-top: 0;
+}
+
+.cake-intro-title-3 p {
+  color: #5c4936;
+  font-size: 15pt;
+  margin-top: 0;
+}
+
+.cake-intro-title-4 p {
+  color: #5c4936;
+  font-size: 15pt;
+  margin-top: 0;
+}
+
+.cake-intro-2 img {
+  height: 51px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+.cake-intro-3 img {
+  height: 51px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+.cake-intro-4 img {
+  height: 51px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+
+.cake-intro-1 {
+  padding-top: 80px;
+  padding-left: 60px;
+}
+
+.cake-intro-2 {
+  padding-right: 60px;
+  padding-top: 0px;
+  height: 330px;
+}
+
+.cake-intro-3 {
+  padding-left: 60px;
+  padding-top: 100px;
+}
+
+.cake-intro-4 {
+  padding-right: 60px;
+  padding-top: 100px;
+}
+
+.cake-intro-1 p {
+  display: flex;
+  color: #5c4936;
+}
+
+.天使草莓奶油蛋糕-text p {
+  text-align: left;
+  font-size: 15px;
+  color: #bcb08b;
+  margin: 0;
+}
+
+.price1 {
+  color: #5c4936;
+  text-align: left;
+  font-size: 10px;
+  margin: 0;
+}
+
+.price1 p {
+  margin: 5px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.cake-intro-2 p {
+  text-align: right;
+  font-size: 30px;
+  color: #5c4936;
+  padding: 0pt;
+}
+
+.price2 p {
+  margin: 5px;
+  font-size: 20px;
+  text-align: right;
+}
+
+.黑巧克力森林蛋糕-text p {
+  text-align: right;
+  font-size: 15px;
+  color: #bcb08b;
+  margin: 0;
+}
+
+.cake-intro-3 p {
+  text-align: left;
+  font-size: 30px;
+  color: #5c4936;
+  padding: 0pt;
+}
+
+.金色傳奇起司蛋糕-text p {
+  text-align: left;
+  font-size: 15px;
+  color: #bcb08b;
+  margin: 0;
+}
+
+.price3 p {
+  margin: 5px;
+  font-size: 20px;
+  text-align: left;
+}
+
+.cake-intro-4 p {
+  text-align: right;
+  font-size: 30px;
+  color: #5c4936;
+  padding: 0pt;
+}
+
+.雪白奶油蛋糕-text p {
+  text-align: right;
+  font-size: 15px;
+  color: #bcb08b;
+  margin: 0;
+}
+
+.cake-intro-img-1 {
+  width: 330px;
+}
+
+.cake-intro-img-2 {
+  width: 330px;
+  padding-top: 102px;
+}
+
+.cake-intro-img-3 {
+  width: 330px;
+  height: 333px;
+  padding-top: 102px;
+}
+
+.cake-intro-img-4 {
+  width: 351px;
+  padding-top: 102px;
+}
+
+.price4 p {
+  margin: 5px;
+  font-size: 20px;
+  text-align: right;
+}
+
+.footer {
+  background-color: #5c4936;
+  width: 100vw;
+  height: 100px;
+  text-align: center;
+  padding: 0px;
+}
+
+.footer p {
+  font-size: 10pt;
+  color: #ffffff;
+  padding-top: 45px;
+}
+
+.cake-font {
+  display: flex;
+}
+
+.cake font p {
+  font-size: 15pt;
+}
+
+.button1 {
+  border: 0;
+  background-color: #5c4936;
+  color: #fff;
+  border-radius: 0px;
+  cursor: pointer;
+  width: 240px;
+  height: 30px;
+}
+
+.button1:hover {
+  color: #5c4936;
+  background-color: #fff;
+  border: 2px #5c4936 solid;
+  width: 240px;
+  height: 30px;
+}
+
+.button2 {
+  border: 0;
+  background-color: #5c4936;
+  color: #fff;
+  border-radius: 0px;
+  cursor: pointer;
+  width: 240px;
+  height: 30px;
+}
+
+.button2:hover {
+  color: #5c4936;
+  background-color: #fff;
+  border: 2px #5c4936 solid;
+  width: 240px;
+  height: 30px;
+}
+
+.button3 {
+  border: 0;
+  background-color: #5c4936;
+  color: #fff;
+  border-radius: 0px;
+  cursor: pointer;
+  width: 240px;
+  height: 30px;
+}
+
+.button3:hover {
+  color: #5c4936;
+  background-color: #fff;
+  border: 2px #5c4936 solid;
+  width: 240px;
+  height: 30px;
+}
+
+.button4 {
+  border: 0;
+  background-color: #5c4936;
+  color: #fff;
+  border-radius: 0px;
+  cursor: pointer;
+  width: 240px;
+  height: 30px;
+}
+
+.button4:hover {
+  color: #5c4936;
+  background-color: #fff;
+  border: 2px #5c4936 solid;
+  width: 240px;
+  height: 30px;
+}
